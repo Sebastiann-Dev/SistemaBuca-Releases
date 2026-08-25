@@ -1,4 +1,6 @@
 {
-  "version": "2.7.7",
-  "download_url": "https://raw.githubusercontent.com/Sebastiann-Dev/SistemaBuca-Releases/main/update.zip"
+    "version": "2.8.1",
+    "download_url": "https://github.com/Sebastiann-Dev/SistemaBuca-Releases/releases/download/v2.8.1/SistemaBuca_v2.8.1.zip",
+    "changelog": "v2.8.1 - Homologacion total de 16 estados oficiales, visualizacion estricta de lotes por producto, renderizado continuo en detalle de pedido y sincronizacion bidireccional en Supabase Cloud.",
+    "mandatory": true
 }
